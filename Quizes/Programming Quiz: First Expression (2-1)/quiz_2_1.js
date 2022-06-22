@@ -18,5 +18,6 @@ console.log(1 + 5 - 2);
 // console.log(4 + 5 * 8 - 2);
 
 
-// Given Solution
+// Given Solution:
+// Here is one of the possible solutions:
 // console.log(10 * 4 + 4 - 2);
