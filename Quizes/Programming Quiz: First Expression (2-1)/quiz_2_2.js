@@ -24,6 +24,14 @@
  
 
 var celsius = 12;
-var fahrenheit = /* convert celsius to fahrenheit here */
+var fahrenheit = celsius * 1.8 + 32 /* convert celsius to fahrenheit here */
 
-console.log(/* print out result here */);
+console.log(fahrenheit/* print out result here */);
+
+
+// Given Solution:
+
+// Here is one of the possible solutions:
+// var celsius = 12;
+// var fahrenheit = (celsius * 1.8 + 32 );
+// console.log(fahrenheit);
