@@ -10,3 +10,9 @@
  * 4. Your code should not be empty
  */
 console.log( "Pizza" /* replace this comment with your string */);
+
+
+
+// Given Solution:
+// Here is one of the possible solutions:
+// console.log("Pizza");
