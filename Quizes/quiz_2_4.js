@@ -18,3 +18,7 @@ var answer = "ALL Strings are CrEaTeD equal" == "ALL Strings are CrEaTeD equal";
 console.log(answer);
 
 
+// Given Solution:
+// Here is one of the possible solutions:
+// var answer = "ALL Strings are CrEaTeD equal" == "ALL Strings are CrEaTeD equal";
+// console.log(answer);
