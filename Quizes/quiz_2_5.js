@@ -9,3 +9,7 @@
 var joke = "Why couldn't the shoes go out and play? \nThey were all \"tied\" up\!" /* write your joke here */
 console.log(joke);
 
+// Given Solution:
+// Here is one of the possible solutions:
+// var joke = "Why couldn't the shoes go out and play? \n They were all \"tied\" up\!"
+// console.log(joke);
