@@ -9,5 +9,6 @@
  * 3. Your poem should match the famous haiku poem
  */
 
-var haiku = /* concatenate the strings here */
+var haiku = "Blowing from the west" + "\nFallen leaves gather" + "\nIn the east." /* concatenate the strings here */
 console.log(haiku);
+
