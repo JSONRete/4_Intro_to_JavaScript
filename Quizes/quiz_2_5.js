@@ -6,5 +6,6 @@
  * 2. Your joke should use only one string
  * 3. Your joke should match the expected format
 */
-var joke = /* write your joke here */
+var joke = "Why couldn't the shoes go out and play? \nThey were all \"tied\" up\!" /* write your joke here */
 console.log(joke);
+
