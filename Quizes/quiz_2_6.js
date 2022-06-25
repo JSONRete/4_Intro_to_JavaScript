@@ -12,3 +12,7 @@
 var haiku = "Blowing from the west" + "\nFallen leaves gather" + "\nIn the east." /* concatenate the strings here */
 console.log(haiku);
 
+// Given Solution:
+// Here is one of the possible solutions:
+// var haiku = "Blowing from the west"+"\nFallen leaves gather"+"\nIn the east."
+// console.log(haiku);
