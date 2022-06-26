@@ -34,5 +34,12 @@ var firstName = "JaSON";
 var interest = "board games";
 var hobby = "stage dive";
 var awesomeMessage = `Hi, my name is ${firstName}. I love ${interest}. In my spare time, I like to ${hobby}.`;
-
 console.log(awesomeMessage);
+
+// Given Solution:
+// Here is one of the possible solutions:
+// var firstName = "Julia";
+// var interest = "cats";
+// var hobby = "play video games";
+// var awesomeMessage = "Hi, my name is " + firstName + ". I love " + interest + ". In my spare time, I like to " + hobby + ".";
+// console.log(awesomeMessage);
