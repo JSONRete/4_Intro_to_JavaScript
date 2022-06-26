@@ -12,4 +12,8 @@
 // your code goes here
 var fullName = "JaSON Rete";
 console.log(fullName);
- .
+
+
+// Given Solution:
+// Here is one of the possible solutions:
+// var fullName = "Udacity Inc";
