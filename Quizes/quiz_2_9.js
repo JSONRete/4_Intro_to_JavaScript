@@ -10,3 +10,6 @@
  */
  
 // your code goes here
+var fullName = "JaSON Rete";
+console.log(fullName);
+ .
