@@ -16,3 +16,10 @@ thingOne = "red";
 thingTwo = " blue";
 console.log(thingOne+thingTwo);
 
+
+
+// Given Solution:
+// Here is one of the possible solutions:
+// var thingOne = "Text One";
+// var thingTwo = "Text Two";
+// console.log(thingOne + " " + thingTwo);
