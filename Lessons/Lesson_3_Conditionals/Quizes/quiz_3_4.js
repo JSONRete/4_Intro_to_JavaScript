@@ -47,7 +47,7 @@ if (room === 'ballroom' && suspect==="Mr. Kalehoff") {
 } else if (room === 'billiards room' && suspect==="Mrs. Sparr") {
     weapon = 'pool stick';
     solved = true;
-} else {(room === 'dining room' && suspect==="Mr. Parkes");
+} else if (room === 'dining room' && suspect==="Mr. Parkes") {
     weapon = 'knife';
     solved = true;
 }
