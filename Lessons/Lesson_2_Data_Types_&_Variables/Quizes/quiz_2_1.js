@@ -3,7 +3,7 @@
  * Write an expression that uses at least three, distinct, arithmetic operators
  * to log the number 42 to the console.
  */
- 
+
 /*
  * QUIZ REQUIREMENTS
  * 1. Your code should print the value `42`
