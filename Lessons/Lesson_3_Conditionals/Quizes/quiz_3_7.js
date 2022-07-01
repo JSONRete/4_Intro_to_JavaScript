@@ -41,3 +41,13 @@ var shirtSleeve = 8.71;
 */
 
 // WRITE YOUR CODE HERE
+
+
+
+
+
+// https://video.udacity-data.com/topher/2017/January/586e969e_tshirt-guide/tshirt-guide.png
+
+// Lessons/Lesson_3_Conditionals/Quizes/tshirt-guide.png
+// /Users/jsonrete/Udacity/4_Intro_to_JavaScript/Lessons/Lesson_3_Conditionals/Quizes/tshirt-guide.png
+// https://github.com/JSONRete/4_Intro_to_JavaScript/blob/337b0c58ac4a64370d06634f57f0c506f2a883d4/Lessons/Lesson_3_Conditionals/Quizes/quiz_3_7.js
