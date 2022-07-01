@@ -31,4 +31,5 @@ else {
 
 // https://video.udacity-data.com/topher/2017/January/586e98ac_check-your-balance-flowchart/check-your-balance-flowchart.jpeg
 
-// Lessons/Lesson_3_Conditionals/Quizes/check-your-balance-flowchart.jpeg
+// Lessons/Lesson_3_Conditionals/Quizes/check-your-balance-flowchart.
+// check-your-balance-flowchart.jpeg
