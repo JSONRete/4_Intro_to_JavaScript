@@ -25,3 +25,8 @@ if (checkBalance === true) {
 else {
     console.log("Thank you. Have a nice day!");
 }
+
+
+
+
+// https://video.udacity-data.com/topher/2017/January/586e98ac_check-your-balance-flowchart/check-your-balance-flowchart.jpeg
