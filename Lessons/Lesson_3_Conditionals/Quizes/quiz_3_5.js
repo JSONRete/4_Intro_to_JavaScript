@@ -17,3 +17,11 @@ var checkBalance = true;
 var isActive = false;
 
 // your code goes here
+
+if (checkBalance === true) {
+    
+}
+
+else {
+    console.log("Thank you. Have a nice day!");
+}
