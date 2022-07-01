@@ -57,9 +57,9 @@
  */
 
 // change the values of `flavor`, `vessel`, and `toppings` to test your code
-var flavor = "vanilla";
-var vessel = "cone";
-var toppings = "peanuts";
+let flavor = "vanilla";
+let vessel = "cone";
+let toppings = "peanuts";
 
 // Add your code here
 
