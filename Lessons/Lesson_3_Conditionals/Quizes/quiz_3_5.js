@@ -12,8 +12,8 @@
  */
  
 // change the values of `balance`, `checkBalance`, and `isActive` to test your code
-var balance = -325.00;
-var checkBalance = false;
+var balance = 325.00;
+var checkBalance = true;
 var isActive = true;
 
 // your code goes here
