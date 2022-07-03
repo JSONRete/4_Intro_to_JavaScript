@@ -13,7 +13,10 @@
  * - BE CAREFUL ABOUT THE PUNCTUATION AND THE EXACT WORDS TO BE PRINTED.
  */
  
-// fix the for loop
-for (x < 10; x++) {
+// // fix the for loop
+// for (x < 10; x++) {
+//     console.log(x);
+// }
+for (let x = 5; x < 10; x++) {
     console.log(x);
 }
