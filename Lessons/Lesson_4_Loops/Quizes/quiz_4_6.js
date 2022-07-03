@@ -21,3 +21,10 @@ for (var k = 0; k < 200; k++) {
 }
 
 
+// Given Solution:
+// Here is one of the possible solutions:
+
+// // The semicolon was missing at two places
+// for (var k = 0; k < 200; k++) {
+//     console.log(k);
+// }
