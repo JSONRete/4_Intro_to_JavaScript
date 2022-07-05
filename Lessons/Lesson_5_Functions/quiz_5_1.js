@@ -13,4 +13,12 @@
 
 // your code goes here
 
-console.log(/* call the laugh function */);
+// console.log(/* call the laugh function */);
+
+function laugh() {
+    let sound = "hahahahahahahahahaha!";
+    return sound;
+}
+
+console.log(laugh());
+
