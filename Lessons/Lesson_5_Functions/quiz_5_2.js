@@ -14,3 +14,21 @@
  * - Your `laugh()` function should have one parameter named `num`
  * - Your `laugh()` function should return the correct number of laughs
  */
+let sound = "";
+function laugh(num) {
+    n = 0;
+    while (n < num ) {
+        n++;
+        sound += "ha";
+    }
+        sound = `${sound}!`; 
+    return sound; 
+}
+console.log(laugh(3));
+
+
+
+
+
+
+
