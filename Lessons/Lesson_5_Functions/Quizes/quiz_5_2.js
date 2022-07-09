@@ -27,6 +27,20 @@ function laugh(num) {
 console.log(laugh(3));
 
 
+// Given Solution:
+// Here is one of the possible solutions:
+// var sound = "" ; 
+// function laugh(num) {
+//     for (var x = 0 ; x < num ; x++) {
+//         sound = sound + "ha" ;  
+//     }
+//     sound = sound +"!"; 
+//     return sound; 
+// }
+
+// console.log(laugh(3)) ;
+
+
 
 
 
