@@ -11,6 +11,19 @@
  */
 
 
-var laugh = /* finish the function expression */
+// var laugh = /* finish the function expression */
+
+// console.log(laugh(10));
+
+let sound = ""
+let laugh = function(num) {
+    n = "0"
+    while (n < num ) {
+        n++;
+        sound += "ha";
+    }
+        sound = `${sound}!`; 
+    return sound; 
+};
 
 console.log(laugh(10));
