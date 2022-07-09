@@ -21,3 +21,14 @@ function emotions(myString, myFunc) {
 // Call the emotions() function with two arguments
 // Argument 1 - "happy" string
 // Argument 2 - an inline function expression
+
+emotions("happy", function(num) {
+    var sound = "";
+    i = 0;
+    while (i < num) {
+        i++;
+        sound = sound + "ha" ;  
+    }
+    sound = `${sound}!`; 
+    return sound; 
+});
