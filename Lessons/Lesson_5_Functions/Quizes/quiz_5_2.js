@@ -24,8 +24,7 @@ function laugh(num) {
         sound = `${sound}!`; 
     return sound; 
 }
- console.log(laugh(3));
- 
+console.log(laugh(3));
 
 
 
