@@ -13,3 +13,8 @@
 
 
 // your code goes here
+
+let cry = function sound() {
+    return "boohoo!"
+};
+console.log(cry()); 
