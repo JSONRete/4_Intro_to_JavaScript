@@ -12,3 +12,6 @@
 
 
 // your code goes here
+
+udaciFamily = ["Julia", "James", "JaSON"];
+console.log(udaciFamily);
