@@ -16,3 +16,10 @@ var test = [12, 929, 11, 3, 199, 1000, 7, 1, 24, 37, 4,
 ];
 
 // Write your code here
+test.forEach(function(item, index) {
+  if(item % 3 === 0)
+  		// item = item + 100;
+			test[index]=test[index]+100;
+});
+
+console.log(test);
