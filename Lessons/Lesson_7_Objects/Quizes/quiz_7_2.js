@@ -11,3 +11,14 @@ let breakfast = {
     price: 9.95,
     ingredients: ["eggs", "sausage", "toast", "hashbrowns", "pancakes"]
 };
+
+
+// Given Solution:
+// Here is one of the possible solutions:
+// // your code goes here
+// var breakfast = {
+//     name: "The Lumberjack",
+//     price: "$9.95",
+//     ingredients: ["eggs", "sausage", "toast", "hashbrowns", "pancakes"]
+// };
+// console.log(breakfast);
