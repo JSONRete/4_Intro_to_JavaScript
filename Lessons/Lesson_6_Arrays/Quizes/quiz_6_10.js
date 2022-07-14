@@ -36,7 +36,7 @@ for (var row = 0; row < numbers.length; row++) {
             numbers[row][column] = "even";
         else
             numbers[row][column] = "odd";
-  }
+}
 }
     console.log(numbers);
 
