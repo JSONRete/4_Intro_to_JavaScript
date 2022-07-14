@@ -32,10 +32,28 @@ var numbers = [
 for (var row = 0; row < numbers.length; row++) {
     for (var column = 0; column < numbers[row].length; column++) {
 
-        if(numbers[row][column]%2===0)
-            numbers[row][column]="even";
+        if(numbers[row][column ]% 2 === 0)
+            numbers[row][column] = "even";
         else
-            numbers[row][column]="odd";
+            numbers[row][column] = "odd";
   }
 }
     console.log(numbers);
+
+
+//     Given Solution:
+//     Here is one of the possible solutions:
+// // Let i represents a sub-array
+// for(var i=0; i<numbers.length; i++){
+
+//     // Let j represents the length of a sub-array 
+//     for(var j=0; j<numbers[i].length; j++){
+//         if(numbers[i][j]%2===0)
+//             numbers[i][j]="even";
+//         else
+//             numbers[i][j]="odd";
+//     }
+// }
+
+// // Print the final array
+// console.log(numbers);
