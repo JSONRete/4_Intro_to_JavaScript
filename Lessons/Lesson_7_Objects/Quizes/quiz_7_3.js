@@ -32,3 +32,12 @@ var savingsAccount = {
 };
 
 console.log(savingsAccount.printAccountSummary());
+
+
+// Given Solution:
+// Here is one of the possible solutions:
+//     // your code goes here
+//     printAccountSummary: function() {
+//         return "Welcome!\nYour balance is currently $" + savingsAccount.balance + " and your interest rate is " + savingsAccount.interestRatePercent + "%."
+//     }
+
