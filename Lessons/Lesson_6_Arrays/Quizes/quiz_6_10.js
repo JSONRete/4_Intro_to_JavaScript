@@ -7,6 +7,12 @@
  *   - Convert each odd number to the string "odd"
  */
 
+// for (var row = 0; row < donutBox.length; row++) {
+//   // here, donutBox[row].length refers to the length of the donut array currently being looped over
+//   for (var column = 0; column < donutBox[row].length; column++) {
+//     console.log(donutBox[row][column]);
+//   }
+// }
 
 var numbers = [
     [243, 12, 23, 12, 45, 45, 78, 66, 223, 3],
@@ -22,3 +28,14 @@ var numbers = [
 ];
 
 // your code goes here
+
+for (var row = 0; row < numbers.length; row++) {
+    for (var column = 0; column < numbers[row].length; column++) {
+
+        if(numbers[row][column]%2===0)
+            numbers[row][column]="even";
+        else
+            numbers[row][column]="odd";
+  }
+}
+    console.log(numbers);
